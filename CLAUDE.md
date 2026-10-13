@@ -1,6 +1,6 @@
 # alphateklab Reservas
 
-Demo estática en GitHub Pages (https://jojomunoz.github.io/alphateklab-reservas/): un motor de citas y reservas con dos
+Demo estática en GitHub Pages (https://alphatend.github.io/alphateklab-reservas/): un motor de citas y reservas con dos
 plantillas (citas y alojamiento). HTML + CSS + módulos ES, sin build. Reglas comunes: `~/alphateklab/BRIEF.md`;
 especificación: `~/alphateklab/ESPEC-reservas.md`; guía de diseño: `~/Documents/NovahWEB/conocimiento/GUIA-DISENO-SIN-SLOP.md`.
 

@@ -135,7 +135,7 @@ function etiquetaClase(e) {
   return `Recordatorio ${e.etiqueta} · ${e.intento} de ${e.de}`;
 }
 
-/** «jojomunoz.github.io/…/confirmar»: el enlace de la demo lleva la cita firmada y pasa de 250 caracteres. */
+/** «alphatend.github.io/…/confirmar»: el enlace de la demo lleva la cita firmada y pasa de 250 caracteres. */
 function enlaceCorto(enlace) {
   try {
     const u = new URL(enlace);

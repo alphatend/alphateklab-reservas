@@ -12,7 +12,7 @@ Un motor de citas y reservas con dos plantillas, para negocios de Panamá:
 Esto es una **demo** en GitHub Pages con negocios de ejemplo (Dermatología Ríos, Barbería Calle Cuarta, Taller La
 Rotonda y Cabañas Quebrada Honda). Ninguno existe; ningún nombre, teléfono ni cédula es real.
 
-Dirección prevista en GitHub Pages: https://jojomunoz.github.io/alphateklab-reservas/ (todavía no está publicada: el repo
+Dirección prevista en GitHub Pages: https://alphatend.github.io/alphateklab-reservas/ (todavía no está publicada: el repo
 no tiene remoto y esa dirección responde 404).
 
 ## Las vistas
